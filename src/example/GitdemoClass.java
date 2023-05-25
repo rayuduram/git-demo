@@ -9,5 +9,9 @@ public class GitdemoClass {
 		System.out.println(Constants.MAIN_METHOD);
 
 	}
+	
+	public void testMethod(){
+	  System.out.println("How are you?);
+	}
 
 }
